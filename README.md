@@ -2,7 +2,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-JulianDLV-181717?style=flat&logo=github&logoColor=white)](https://github.com/JulianDLV)
 
-Apasionado por el desarrollo web y de software. Me especializo en construir soluciones completas **Full Stack**, desde interfaces modernas hasta sistemas backend robustos.
+Apasionado por el desarrollo web y de software. Me especializo en construir soluciones, desde interfaces modernas hasta sistemas backend robustos.
 
 ---
 
