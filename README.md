@@ -1,4 +1,4 @@
-# 👨‍💻 JulianDLV - Desarrollador Full Stack
+# 👨‍💻 JulianDLV - Desarrollador Junior
 
 [![GitHub](https://img.shields.io/badge/GitHub-JulianDLV-181717?style=flat&logo=github&logoColor=white)](https://github.com/JulianDLV)
 
